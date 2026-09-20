@@ -1,0 +1,7 @@
+[USERS]
+admin:test
+bob:bob
+
+[BLACKLIST]
+troublemaker22
+bob
